@@ -1,0 +1,2 @@
+*.bash linguist-language=Bash
+*.shell linguist-language=Shell
